@@ -50,3 +50,9 @@ amplify/backend/types/amplify-dependent-resources-ref.d.ts
 amplify/cli.json
 amplify/team-provider-info.json
 amplify/backend/auth/amplify3eb5ded4/cli-inputs.json
+amplify/backend/api/amplify/cli-inputs.json
+amplify/backend/api/amplify/parameters.json
+amplify/backend/api/amplify/resolvers/README.md
+amplify/backend/api/amplify/schema.graphql
+amplify/backend/api/amplify/stacks/CustomResources.json
+amplify/backend/api/amplify/transform.conf.json
